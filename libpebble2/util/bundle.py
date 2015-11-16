@@ -35,7 +35,7 @@ class PebbleBundle(object):
 
     PLATFORM_PATHS = {
         'unknown': ('',),
-        'aplite': ('',),
+        'aplite': ('aplite/', '',),
         'basalt': ('basalt/', ''),
         'chalk': ('chalk/',),
     }
